@@ -7,6 +7,7 @@
 * [Project Applications: Separate 'security review' from 'mentorship' [#1673062] | Drupal.org](https://www.drupal.org/project/drupal_twg/issues/1673062)
 * [Project approval conflict [#2157047] | Drupal.org](https://www.drupal.org/project/drupal_twg/issues/2157047)
 * [Standardize semantics for alpha, beta, and rc releases [#2910003] | Drupal.org](https://www.drupal.org/project/drupal_twg/issues/2910003)
+* [foundpatterns/issue-labels: Found Patterns Studio github projects issue queue labels, using change management-style - used with https://github.com/tonglil/labeler](https://github.com/foundpatterns/issue-labels)
 * [Software release life cycle - Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle#Stages_of_development)
 * [Drupal Technical Working Group | Drupal.org](https://www.drupal.org/project/drupal_twg)
 * [[D7] Rules Collections [#1968118] | Drupal.org](https://www.drupal.org/project/projectapplications/issues/1968118)
